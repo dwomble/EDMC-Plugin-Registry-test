@@ -1,6 +1,6 @@
 {
   "pluginName": "EDMC-NeutronDancer",
-  "pluginVer": "2.0.1",
+  "pluginVer": "2.0.2",
   "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v2.0.0/EDMC-NeutronDancer.zip",
   "autoUpdateEnabled": true,
   "autoInstallEnabled": false,
